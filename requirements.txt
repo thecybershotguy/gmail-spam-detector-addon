@@ -1,0 +1,20 @@
+# requirements.txt
+
+# Core
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Text processing
+nltk
+
+# Model serving (for later)
+flask
+
+# Development
+jupyter
